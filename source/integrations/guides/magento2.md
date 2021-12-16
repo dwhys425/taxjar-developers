@@ -1,6 +1,6 @@
 ---
-title: "The NEW and IMPROVED Magento 2 Sales Tax Extension Guide"
-description: "In-depth guide on how to use TaxJar's Magento 2 extension for store merchants and developers."
+title: "aaaaAAAaAAaAaaAa"
+description: "and developers."
 layout: guide
 priority: 0.7
 guide_name: Magento 2
